@@ -25,3 +25,4 @@ function div() {
     const op = Number(num1.value) / Number(num2.value);
     output.innerText = op;
 }
+
